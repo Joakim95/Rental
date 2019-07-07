@@ -1,0 +1,109 @@
+.btn-reg{
+	background-color: #ff9500;
+	color: white;
+	border: none;
+	padding:10px 7px;
+	cursor: pointer;
+	border-radius: 10px;
+}
+.btn-lgn{
+	background-color: #319e50;
+	color: white;
+	border: none;
+	padding:10px 7px;
+	cursor: pointer;
+	border-radius: 10px;
+}
+.topImage{
+	background-image: url(../../images/500_F_76388855_vYPcLjNRZONTnt6vmShj4Xti2ACJ8net.jpg); 
+	min-height: 450px;
+	background-size: cover;
+	 position: relative;
+	 width: 100%;
+	
+}
+.client{
+	border-left: 5px solid green;
+	margin-bottom: 25px;
+	background-color: #F9EEDA;
+	border-radius: 10px;
+	padding: 25px;
+	margin-left: 20px;
+}
+.brandtitle{
+	font-weight: 800;
+}
+.clientfeedback{
+	padding-top: 20px;
+	background-color: 
+}
+footer{
+	padding: 20px;
+}
+.star{
+	color: red;
+}
+.form-folder{
+	max-width: 400px;
+	padding-bottom: 25px;
+}
+.housedetails{
+	border-left: 2px solid black;
+}
+.rght{
+	float: right;
+}
+.house{
+	margin-top: 25px;
+	padding: 25px 5px;
+}
+.adminpic{
+	float: right;
+	height: 100px;
+	width: 100px;
+	border: 4px solid #ff3399;
+	border-radius: 50%;
+}
+.adminpic img{
+	border-radius:50%;
+}
+.red{
+	color: red;
+}
+.info{
+	margin-bottom: 10px;
+	text-align: center;
+	background-color: lightblue;
+}
+.hide{
+	display: none;
+
+}
+.imageDivButtonHolder{
+	position: absolute;
+	bottom: 15px;
+	width: 100%;
+
+}
+ul{
+	padding: 0px;
+}
+.navLi {
+padding-left: 20px;
+}
+li :hover {
+padding-left: 30px;
+background-color: #4f4324;
+color: white;
+}
+
+
+
+
+
+
+
+
+/*Small screens*/
+
+
